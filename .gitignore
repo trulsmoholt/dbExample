@@ -1,0 +1,4 @@
+data\db
+*.log
+*.pot
+__pycache__/
